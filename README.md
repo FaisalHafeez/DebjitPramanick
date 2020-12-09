@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebjitPramanick&layout=compact&theme=radical)](https://github.com/DebjitPramanick/github-readme-stats)
 
 <div style="diplay:flex;background: white;pading: 20px">
-  <img src="https://img.icons8.com/fluent/24/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/ultraviolet/24/000000/react.png"/>
+  <img src="https://img.icons8.com/fluent/24/000000/visual-studio-code-2019.png">
+  <img src="https://img.icons8.com/ultraviolet/24/000000/react.png">
 </div>
 
 

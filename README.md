@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/)
 - 😄 Pronouns: He/His
+
+[![Debjit's github stats](https://github-readme-stats.vercel.app/api?username=DebjitPramanick)](https://github.com/DebjitPramanick/github-readme-stats)

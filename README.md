@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 
 [![Debjit's github stats](https://github-readme-stats.vercel.app/api?username=DebjitPramanick&show_icons=true&theme=radical)](https://github.com/DebjitPramanick/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=show_owner&repo=github-readme-stats)](https://github.com/DebjitPramanick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebjitPramanick)](https://github.com/DebjitPramanick/github-readme-stats)

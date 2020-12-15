@@ -1,7 +1,7 @@
-### There are two ways to write error-free programs; only the third one works.😄😄😄😄😄😄😄
+# There are two ways to write error-free programs; only the third one works.😄😄😄😄😄😄😄
 
 
-## Hi there 👋
+### Hi there 👋
 
 Here are some ideas to get you started:
 

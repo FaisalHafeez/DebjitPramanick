@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on LinkedIn
 - 💬 Ask me about anything interesting
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/)
 - 😄 Pronouns: He/His
 
 ### Connect with me:

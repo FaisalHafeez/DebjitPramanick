@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="DebjitPramanick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/P_Debjit]
-[<img align="left" alt="DebjitPramanick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/]
+[<img align="left" alt="DebjitPramanick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/debjit.pramanick.56)
+[<img align="left" alt="DebjitPramanick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/P_Debjit)
+[<img align="left" alt="DebjitPramanick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/)
 
 
 ### Languages and Tools:

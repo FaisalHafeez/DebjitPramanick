@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on WhatsApp Clone
+- 🔭 I’m currently working on Amazon Clone
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on LinkedIn
 - 💬 Ask me about anything interesting

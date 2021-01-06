@@ -40,5 +40,9 @@ Here are some ideas to get you started:
 
 [![Debjit's github stats](https://github-readme-stats.vercel.app/api?username=DebjitPramanick&show_icons=true&theme=radical)](https://github.com/DebjitPramanick/github-readme-stats)
 
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebjitPramanick&layout=compact&theme=radical)](https://github.com/DebjitPramanick/github-readme-stats)
+
+<br/>
 <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="400"/>
